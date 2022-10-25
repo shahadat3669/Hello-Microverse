@@ -9,7 +9,7 @@
 
 ## 👁 Live Demo
 
-[Live Demo Link](shahadat3669.github.io/Hello-Microverse)
+[Live Demo Link](https://shahadat3669.github.io/Hello-Microverse/)
 
 ## 📝 Getting Started
 
